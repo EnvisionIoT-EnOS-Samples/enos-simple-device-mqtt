@@ -1,0 +1,12 @@
+**/.env
+**/env.properties
+**/.DS_Store
+**/node_modules
+**/lib
+**/.idea
+**/target
+**/*.iml
+**/.classpath
+**/.factorypath
+**/.project
+**/.settings
