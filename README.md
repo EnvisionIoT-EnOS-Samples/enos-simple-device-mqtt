@@ -14,7 +14,7 @@ Follow the instructions below to get the device broker url and port:
 - https://www.envisioniot.com/docs/enos/en/latest/getting_started_with_enos/planning.html?highlight=environment%20information#getting-environment-information
 
 ### Create a model, service and event
-Follow the instructions below to create a product and subdevice.
+Follow the instructions below to create a model. service and event.
 - https://www.envisioniot.com/docs/device-connection/en/latest/howto/model/creating_model#adding-service
 - https://www.envisioniot.com/docs/device-connection/en/latest/howto/model/creating_model#adding-event
 
